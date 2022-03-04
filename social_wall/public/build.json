@@ -1,0 +1,5 @@
+{
+    "js/social.min.js": [
+		"public/js/social_wall/social/social_home.js"
+	]
+}
